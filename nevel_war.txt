@@ -7,7 +7,7 @@ local infammo = Instance.new("TextButton")
 local iy = Instance.new("TextButton")
 local esp = Instance.new("TextButton")
 
---Properties:
+---Properties:
 
 ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
